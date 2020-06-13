@@ -1,0 +1,14 @@
+  <view class="container">
+    <view class="box">
+        <view class="title">
+            登录并授权
+        </view>
+        <view class="">
+            申请获取以下权限
+        </view>
+        <view class="">
+            获得您的公开信息（昵称丶头像等）
+        </view>
+    </view>
+    <button open-type="getUserInfo" bindgetuserinfo="getMyInfo">授权</button>
+  </view>

@@ -1,0 +1,24 @@
+
+.box {
+  background: #fff;
+  text-align: center;
+  font-size: 28rpx;
+  color: #999;
+  margin: 0 66rpx;
+  margin-top: 400rpx;
+  padding: 44rpx;
+}
+
+.box .title {
+  color: #333;
+  font-size: 34rpx;
+  margin-bottom: 30rpx;
+  font-weight: 600;
+}
+
+button {
+  display: block;
+  margin: 0 66rpx;
+  border-radius: 0px;
+  color: #27A036;
+}
